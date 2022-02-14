@@ -1,19 +1,29 @@
 export const skills = [
     {
+        skill: 'Building Web Applications With React',
+        level: 'Q Proficient 188',
+        percentage: 188
+    },
+    {
         skill: 'Building Websites with HTML, CSS and JavaScript',
         level: 'Q Proficient 162',
         percentage: 162
     },
     {
-        skill: 'Javascript Core Language',
-        level: 'Q Proficient 107',
-        percentage: 107
+        skill: 'Introduction to Professional Scrum',
+        level: 'Q Proficient 173',
+        percentage: 173
     },
     {
         skill: 'Python Core Language',
         level: 'Q Proficient 121',
         percentage: 121
     },
+    {
+        skill: 'Javascript Core Language',
+        level: 'Q Proficient 107',
+        percentage: 107
+    },    
     {
         skill: 'CSS',
         level: 'Q Proficient 191',
