@@ -3,7 +3,7 @@ import Link from "next/link"
 const NavBar = () => (
   <nav className="navbar navbar-expand-lg navbar-light bg-light">
   <div className="container">
-    <Link href="/#">
+    <Link href="//">
         <a className="navbar-brand">Personal Portfolio</a>
     </Link>    
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" 
