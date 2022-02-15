@@ -4,7 +4,7 @@ const NavBar = () => (
   <nav className="navbar navbar-expand-lg navbar-light bg-light">
   <div className="container">
     <Link href="/">
-        <a className="navbar-brand">Personal Portfolio</a>
+        <a className="navbar-brand">My Portfolio</a>
     </Link>    
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" 
     data-bs-target="#navbarColor03" aria-controls="navbarColor03" 
