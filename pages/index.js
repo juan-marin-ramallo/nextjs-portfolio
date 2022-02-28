@@ -1,6 +1,7 @@
 import Layout from '../components/Layout'
 import Link from 'next/link'
 import {skills, experiences, projects} from '../profile'
+import Image from 'next/image';
 // console.log(experiences)
 
 const Index = () => (
@@ -17,7 +18,8 @@ const Index = () => (
               <h1>Juan Eduardo Marin Ramallo</h1>
               <h3>Full Stack & Mobile Developer</h3>
               <p>More than 15 years of experience developing applications for various 
-                environments such as console, desktop, web and mobile.</p>
+                environments such as console, desktop, web and mobile.
+                ESPOL</p>
               <a href="/hireme">Hire Me</a>
             </div>
           </div>
