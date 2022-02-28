@@ -12,7 +12,13 @@ const Index = () => (
         <div className="card card-body bg-dark text-light">
           <div className="row">
             <div className="col-md-2">
-              <img src="JuanMarin.jpg" alt=""  className="card-img-top"/>              
+              <Image 
+                src="/JuanMarin.jpg" 
+                alt="PersonalImage" 
+                width={180}
+                height={200}
+                // className="card-img-top"/>              
+                />
             </div>
             <div className="col-md-8">
               <h1>Juan Eduardo Marin Ramallo</h1>
