@@ -7,4 +7,8 @@ module.exports = {
    */
   basePath: isProd ? "/nextjs-portfolio" : "",
   assetPrefix: isProd ? "/nextjs-portfolio/" : "",
+  images: {
+    loader: 'imgix',
+    path: '',
+  },
 };
