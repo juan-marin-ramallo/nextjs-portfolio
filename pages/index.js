@@ -12,12 +12,13 @@ const Index = () => (
         <div className="card card-body bg-dark text-light">
           <div className="row">
             <div className="col-md-2">
-              {/* <Image 
+              <img src="JuanMarin.jpg" alt=""  className="card-img-top"/>      
+              {                
+              /* <Image 
                 src="JuanMarin.jpg" 
                 alt="PersonalImage" 
                 width={180}
                 height={200}
-                           
                 /> */}
             </div>
             <div className="col-md-8">
